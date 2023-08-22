@@ -1,0 +1,28 @@
+H6,h1,h4{
+    text-align: center;
+
+}
+h1{
+    font-weight: 100;
+}
+
+
+
+ul>li{
+
+display: inline-block;
+width: 250px;
+
+
+
+}
+
+div{
+
+border-style: groove;
+background-color: aqua;
+border-width: 8px  ;
+border-radius: 10px;
+
+}
+
